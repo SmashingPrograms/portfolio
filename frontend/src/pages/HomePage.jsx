@@ -1,5 +1,5 @@
-// import React from 'react';
-// import PortfolioItem from '../components/PortfolioItem';
+import React from 'react';
+import PortfolioItem from '../components/PortfolioItem';
 
 const HomePage = ({ portfolioItems }) => {
     return (
