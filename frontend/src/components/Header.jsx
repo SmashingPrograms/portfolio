@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import SearchBar from './SearchBar';
+// import SearchBar from './SearchBar';
 
 const Header = ({ portfolioItems }) => {
     const [isOpen, setIsOpen] = useState(false);
@@ -20,12 +20,10 @@ const Header = ({ portfolioItems }) => {
                                 </Link>
                             ))}
                             <Link to="/about">About</Link>
+                            <Link to="/">Home</Link>
                         </div>
                     )}
                 </div>
-                <Link to="/search">
-                    <SearchBar />
-                </Link>
             </nav>
         </header>
     );

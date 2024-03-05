@@ -1,0 +1,5 @@
+* Carolina Code School final project
+* Goal: Create a word game that gives players random passages from random books, with blanks to fill in.
+* Methods: Developed a React frontend and Django backend with SQL database. Uses downloaded Gutenberg transcription data to dynamically generate word games passages. Also has user authentication and login, and a points system for the game.
+* Future plans: Improve the look and feel, make a scoreboard, give the option to choose chapters of the book (easier for classroom use).
+* Repository: https://github.com/SmashingPrograms/book-look-app

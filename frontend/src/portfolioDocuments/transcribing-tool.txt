@@ -1,0 +1,6 @@
+* Goals: Speed up the process of transcribing scanned text by using a shorthand markup for formatting.
+* Methods: Uses regular expressions and procedural methods to parse the markup language. Formats the data and uploads files to certain websites.
+* Technology: Python, BeautifulSoup (HTML parser), some other parsing technologies, regular expressions, chunk uploading/downloading.
+* Future plans: Create a user-friendly frontend, and apply it to as many types of transcription projects as possible.
+* Impact: Users of an open-source transcription project have found the tool to improve their efficiency, and given positive feedback.
+* Code available on request

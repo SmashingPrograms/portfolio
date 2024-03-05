@@ -1,0 +1,5 @@
+* Goal: Retrieve public documents from the web for archival 
+* Methods: Uses the API for the town of Clyde, Ohio’s website (https://api.clydeohio.org) to systematically bulk-download PDF files and metadata from their database.
+* Technology: TBA
+* Future plans: Generalize this to fit other government records systems with similar APIs.
+* Code available on request
